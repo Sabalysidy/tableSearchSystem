@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: black;
+}
+
+h1{
+    text-decoration: underline;
+    color: #FFF;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#searchInput{
+    border: 1px solid rgb(10, 123, 216);
+    margin-bottom: 5px;
+    float: right;
+    padding: 6px;
+    border-radius: 5px;
+}
